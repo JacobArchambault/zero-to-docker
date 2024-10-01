@@ -2,10 +2,10 @@
 
 ## UCP Troubleshooting
 
-[UCP Architecture]
-(https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
+[UCP Architecture](
+https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
 
-[UCP Node States[(
+[UCP Node States](
 https://docs.docker.com/ee/ucp/admin/monitor-and-troubleshoot/troubleshoot-node-messages/#ucp-node-states)
 
 [Troubleshooting UCP Cluster Matrix](
